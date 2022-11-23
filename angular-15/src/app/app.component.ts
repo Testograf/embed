@@ -2,7 +2,7 @@ import {Component} from '@angular/core';
 
 const ttEmbedUrl = 'https://www.testograf.ru/embed/embed.js?v=1666522817'
 const ttScriptId = 'ttEmbed';
-const ttSurveyId = 512105;
+const ttSurveyId = 500057;
 const ttContainerId = `tte-i-${ttSurveyId}`;
 
 @Component({
